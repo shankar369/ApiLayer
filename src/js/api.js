@@ -54,7 +54,6 @@ const error = (err) => {
 
 const api = new Api();
 
-api.getUsers();
 
 module.exports = api;
 window.api = api;
