@@ -52,4 +52,3 @@ class Server {
 
  module.exports = singletonAxiosInstance;
   
-document.getElementById("div2").innerText = "server.js"

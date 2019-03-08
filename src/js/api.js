@@ -59,4 +59,3 @@ api.getUsers();
 module.exports = api;
 window.api = api;
 
-document.getElementById("div1").innerText = "api.js"
